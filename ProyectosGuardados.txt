@@ -1,0 +1,3 @@
+idProyecto: 1
+Nombre proyecto: tics
+Lider Equipo: juan_______________________________________________
